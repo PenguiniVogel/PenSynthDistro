@@ -1,21 +1,24 @@
 [{
-    "Author": "Pen-Pen",
-    "Name": "PenSynth",
-    "Punchline": "Pens' Synthesis",
-    "Description": "I'm lazy so i spent 20+ hours programming instead.",
-    "InternalName": "PenSynthPlugin",
-    "ApplicableVersion": "any",
-    "Tags": [
-        "crafting"
-    ],
-    "RepoUrl": "https://github.com/PenguiniVogel/PenSynthDistro",
-    "DalamudApiLevel": 8,
-    "LoadPriority": 0,
-    "LoadSync": true,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 1,
-    "DownloadLinkInstall": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.2/latest.zip"
+  "Author": "Pen-Pen",
+  "Name": "PenSynth",
+  "Punchline": "Pens' Synthesis",
+  "Description": "I'm lazy so i spent 20+ hours programming instead.",
+  "InternalName": "PenSynthPlugin",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "crafting",
+    "utility"
+  ],
+  "RepoUrl": "https://github.com/PenguiniVogel/PenSynthDistro",
+  "DalamudApiLevel": 8,
+  "LoadPriority": 0,
+  "LoadSync": true,
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 1,
+  "DownloadLinkInstall": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.2/latest.zip",
+  "DownloadLinkTesting": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.2/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.2/latest.zip",
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
 }]
