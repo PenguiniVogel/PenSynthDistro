@@ -8,8 +8,12 @@
     "Tags": [
         "crafting"
     ],
+    "RepoUrl": "https://github.com/PenguiniVogel/PenSynthDistro",
     "DalamudApiLevel": 8,
     "LoadPriority": 0,
+    "LoadSync": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "DownloadLinkInstall": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.1/PenSynth.zip",
     "DownloadLinkTesting": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.1/PenSynth.zip",
