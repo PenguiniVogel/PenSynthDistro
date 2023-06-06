@@ -1,0 +1,17 @@
+﻿[{
+    "Author": "Pen~Pen",
+    "Name": "PenSynth",
+    "Punchline": "Pens' Synthesis",
+    "Description": "I'm lazy so i spent 20+ hours programming instead.",
+    "InternalName": "PenSynthPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "crafting"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "DownloadCount": 1,
+    "DownloadLinkInstall": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.0/PenSynth.zip",
+    "DownloadLinkTesting": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.0/PenSynth.zip",
+    "DownloadLinkUpdate": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.0/PenSynth.zip"
+}]
