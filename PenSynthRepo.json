@@ -3,7 +3,7 @@
   "Name": "PenSynth",
   "Punchline": "Pens' Synthesis",
   "Description": "I'm lazy so i spent 20+ hours programming instead.",
-  "AssemblyVersion": "1.0.3",
+  "AssemblyVersion": "1.0.4",
   "InternalName": "PenSynth",
   "ApplicableVersion": "any",
   "Tags": [
@@ -11,11 +11,11 @@
     "utility"
   ],
   "RepoUrl": "https://github.com/PenguiniVogel/PenSynthDistro",
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "IsHide": "False",
   "IsTestingExclusive": "False",
   "DownloadCount": 1,
-  "DownloadLinkInstall": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.3/latest.zip",
-  "DownloadLinkTesting": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.3/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.3/latest.zip"
+  "DownloadLinkInstall": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.4/latest.zip",
+  "DownloadLinkTesting": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.4/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.4/latest.zip"
 }]
