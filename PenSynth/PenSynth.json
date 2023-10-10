@@ -11,6 +11,6 @@
     "crafting",
     "utility"
   ],
-  "AssemblyVersion": "1.0.3",
-  "DalamudApiLevel": 8
+  "AssemblyVersion": "1.0.4",
+  "DalamudApiLevel": 9
 }
